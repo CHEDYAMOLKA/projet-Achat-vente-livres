@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 May 2021 11:28:19 at http://kodeforest.net/html/books/store/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kodeforest.net/html/books/store/index.html -O1 "C:\My Web Sites\livre2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:49:27	Error: 	"Not Found" (404) at link kodeforest.net/html/books/store/css/grabbing.png (from kodeforest.net/html/books/store/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 8 seconds : 165 links scanned, 163 files written (26435906 bytes overall) [26472305 bytes received at 20877 bytes/sec], 8044 bytes transferred using HTTP compression in 1 files, ratio 32%, 1.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
