@@ -1,6 +1,7 @@
 //users = JSON.parse(localStorage.getItem("Books") )||[];
 //localStorage.setItem("Books",JSON.stringify(users))
 books = JSON.parse(localStorage.getItem("Books") )||[];
+console.log(books);
 
 function carte(){
     var liste=document.getElementById('carte');
